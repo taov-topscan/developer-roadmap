@@ -100,6 +100,7 @@
   "mongodb-security:x509-certificate-auth": "NV39oWwr7iB_dnlnD_Q6Y",
   "mongodb-security:kerberos-authentication": "YuzMOO7kf2tO6V6WehqF_",
   "mongodb-security:ldap-proxy-auth": "NoDNdno9UOlMrOC0Wga9E",
+  "mongodb-security:sso-proxy-auth": "NoDNdno9UOlMrOC0Wga9E1",
   "mongodb-security:mongodb-audit": "w1L-yFBM2AyeNBFyH5skW",
   "mongodb-security:encryption:encryption-at-rest": "iJjqlTgXxHWC-8bh6uCGQ",
   "mongodb-security:encryption:queryable-encryption": "LpfuM6SuhlNNjBcHM68ee",
